@@ -21,5 +21,5 @@ Navigating SARS tax compliance and CCMA labor laws is a major barrier for small 
 "/data": Official SARS and CCMA PDF knowledge base.
 "docs": Final Project report and skill-to-role Matrix
 
-**Developed by:** [Your Name/GitHub Username]
+**Developed by:** [Kekeletso/kekemelmohatle]
 **Program:** Mentenc Innovations - Generative AI 
